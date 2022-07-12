@@ -7,7 +7,7 @@
         "subtitles",
         "muxing"
     ],
-    "repository": "https://github.com/NaysaBots/subtitle-muxer-bot",
+    "repository": "https://github.com/Kariyapaka/Subtitle-Muxer-Bot",
     "website": "https://t.me/naysabots",
     "success_url": "https://t.me/naysabots",
     "env": {
